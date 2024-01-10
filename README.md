@@ -1,7 +1,5 @@
-# Churn_Prediction
+# Churn Prediction in Telecom Industry using Logistic Regression
 
-## Churn Prediction in Telecom Industry using Logistic Regression
+I've cleansed the dataset and highlighted any noteworthy trends in the provided information. Lastly, I evaluated the prediction for an accuracy of about 85% on the test set after training the Logistic Regression model on the training set.
 
-I have cleaned the dataset and visualised the interesting patterns in the given data. Finally, I have trained the Logistic Regression model on the training set and evaluated the prediction on the test set for an accuracy of ~80%.
-
-DataSet link - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Link for the data set used is: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
